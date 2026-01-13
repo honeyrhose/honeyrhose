@@ -3,7 +3,7 @@
 🎓 BS Information Technology – USTP Cagayan de Oro  
 💡 Focus: UI/UX Design, Front-End Development, Machine Learning  
 
-I am an Information Technology student with experience in system analysis, UI/UX design, front-end development, and machine learning. I focus on building user-centered systems based on real-world requirements and supported by proper research and documentation.
+I am an Information Technology student with experience in system analysis, UI/UX design, front-end development, and machine learning. 
 
 ---
 
