@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Honey Rhose Petil
+## 👋 Hi, I’m Honey Rhose
 
 🎓 BS Information Technology – USTP Cagayan de Oro  
 💡 Focus: UI/UX Design, Front-End Development, Machine Learning  
